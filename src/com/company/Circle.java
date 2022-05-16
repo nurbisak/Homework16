@@ -1,4 +1,4 @@
-package com.animal;
+package com.company;
 
 public class Circle {
     private static final double PI = Math.PI;
